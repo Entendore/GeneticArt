@@ -16,6 +16,7 @@ from PySide6.QtWidgets import (
     QStatusBar,
     QToolBar,
     QSizePolicy,
+    QHBoxLayout,
 )
 from PySide6.QtCore import QTimer, Qt
 from PySide6.QtGui import QAction, QIcon
